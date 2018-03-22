@@ -1,2 +1,5 @@
 # hello-world
-tutorial repository
+
+Hi humans
+
+Jazz is cool and the answer to what ails in DC.
